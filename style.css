@@ -1,0 +1,37 @@
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:white;
+    color:blue;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+    
+}
+.aboutme{
+    border:1px solid black;
+   
+}
+.row{
+    display: flex;
+    justify-content:space-around;
+    
+}
+.row aboutme{
+   background-image: url("https://www.randstad.ca/ugc/images/Blog%20Images/programing-coding-languages.jpg"); 
+    
+}
+#kha{
+    color: white;
+    text-decoration:none;
+    margin-top: 20px;
+}
